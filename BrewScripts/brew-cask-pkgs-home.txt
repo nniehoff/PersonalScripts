@@ -1,0 +1,17 @@
+adobe-creative-cloud
+adobe-photoshop-cc
+adobe-photoshop-lightroom
+crashplan
+dropbox
+eclipse-ide
+mplayerx
+murus
+proxpn
+pdfpenpro
+vlc
+wireshark
+texshop
+latexit
+bibdesk
+excalibur
+tex-live-utility

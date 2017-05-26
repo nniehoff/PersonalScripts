@@ -1,0 +1,11 @@
+bash-completion
+curl
+docker
+emacs
+freerdp
+git
+perl
+python
+readline
+tree
+wget

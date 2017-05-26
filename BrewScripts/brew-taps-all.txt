@@ -1,0 +1,5 @@
+caskroom/cask
+homebrew/completions
+homebrew/core
+homebrew/services
+homebrew/x11

@@ -1,0 +1,9 @@
+adobe-acrobat-reader
+amazon-chime
+dbvisualizer
+gitkraken
+hipchat
+intellij-idea-ce
+onyx
+sourcetree
+vmware-fusion
