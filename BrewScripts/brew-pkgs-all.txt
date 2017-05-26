@@ -9,3 +9,7 @@ python
 readline
 tree
 wget
+gdbm
+openssl
+pkg-config
+sqlite
