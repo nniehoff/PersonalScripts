@@ -3,3 +3,4 @@ homebrew/completions
 homebrew/core
 homebrew/services
 homebrew/x11
+buo/cask-upgrade
